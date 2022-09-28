@@ -1,0 +1,293 @@
+*{
+    margin: auto;
+    padding: 70px;
+}
+
+
+.logo{
+    position: absolute;
+    width: 82px;
+    height: 81px;
+    left: 53px;
+    top: 36px;
+    
+}
+
+.bg{
+    background: #79889F99;
+}
+
+.navbar{
+    position: absolute;
+    width: 405px;
+    height: 10px;
+    left: 242px;
+    top: 39px;
+}
+
+.wrk{
+    position: absolute;
+width: 243px;
+height: 61px;
+left: 75px;
+top: 752px;
+
+font-family: 'Sura';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 63px;
+
+color: #000000;
+}
+
+.wrkin{
+    
+position: absolute;
+width: 581px;
+height: 498px;
+left: 53px;
+top: 822px;
+
+font-family: 'Perpetua';
+font-style: italic;
+font-weight: 700;
+font-size: 28px;
+line-height: 32px;
+
+color: #000000;
+
+}
+
+.mvs{
+    position: absolute;
+width: 160px;
+height: 63px;
+left: 75px;
+top: 1371px;
+
+font-family: 'Sura';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 63px;
+
+color: #000000;
+}
+
+.jenifer{
+    position: absolute;
+width: 566px;
+height: 71px;
+left: 58px;
+top: 137px;
+
+font-family: 'Sura';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 76px;
+
+color: #000000;
+}
+
+.bio{
+    position: absolute;
+width: 153px;
+height: 50px;
+left: -40px;
+top: 10px;
+
+font-family: 'Sura';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 50px;
+
+color: #000000;
+}
+
+.works{
+    position: absolute;
+width: 96px;
+height: 50px;
+left: 125px;
+top: 10px;
+
+font-family: 'Sura';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 50px;
+
+color: #000000;
+}
+
+.movies{
+    position: absolute;
+width: 105px;
+height: 50px;
+left: 240px;
+top: 10px;
+
+font-family: 'Sura';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 50px;
+
+color: #000000;
+}
+
+.details1{
+    position: absolute;
+width: 251px;
+height: 536px;
+left: 430px;
+top: 216px;
+
+font-family: 'Perpetua';
+font-style: italic;
+font-weight: 700;
+font-size: 28px;
+line-height: 32px;
+
+color: #000000;
+}
+
+.jenim{
+    position: absolute;
+width: 309px;
+height: 314px;
+left: 53px;
+top: 244px;
+
+}
+
+.img1{
+    position: absolute;
+    width: 279px;
+    height: 409px;
+    left: 64px;
+    top: 1460px;
+    
+}
+
+.img2{
+    position: absolute;
+    width: 279px;
+    height: 409px;
+    left: 386px;
+    top: 1460px;
+}
+
+.h1{
+    position: absolute;
+width: 229px;
+height: 32px;
+left: 75px;
+top: 1895px;
+
+font-family: 'Perpetua';
+font-style: italic;
+font-weight: 700;
+font-size: 28px;
+line-height: 32px;
+
+
+
+color: #000000;
+}
+
+.h2{
+    position: absolute;
+width: 236px;
+height: 32px;
+left: 398px;
+top: 1895px;
+
+font-family: 'Perpetua';
+font-style: italic;
+font-weight: 700;
+font-size: 28px;
+line-height: 32px;
+
+color: #000000;
+}
+
+
+.fb{
+    position: absolute;
+    width: 73px;
+    height: 67px;
+    left: 162px;
+    top: 2009px;
+}
+
+.insta{
+    position: absolute;
+    width: 62px;
+    height: 70px;
+    left: 255px;
+    top: 2006px;
+}
+
+.twitter{
+    position: absolute;
+    width: 61px;
+    height: 70px;
+    left: 337px;
+    top: 2006px;
+}
+
+.telegram{
+    position: absolute;
+    width: 73px;
+    height: 82px;
+    left: 418px;
+    top: 2000px;
+}
+
+.tag{
+    position: absolute;
+    width: 216px;
+    height: 44px;
+    
+    font-family: 'Sura';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 44px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    top: 2140px;
+    left: 230px;
+}
+
+.s1{
+width:116%;
+height:150%;
+margin-left: -200px;
+margin-top:-200px;
+
+}
+
+.s2{
+    width:116%;
+    height:100%;
+    margin-left: -200px;
+}
+
+.s3{
+    width:116%;
+    height:137%;
+    margin-left: -200px;
+}
+
+.s4{
+    width:116%;
+    height:1px;
+    margin-left: -200px;
+}
